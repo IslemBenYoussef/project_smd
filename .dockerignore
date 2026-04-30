@@ -1,0 +1,41 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de données
+*.npz
+*.png
+*.jpg
+*.jpeg
+images/
+output/
+results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
+README*
