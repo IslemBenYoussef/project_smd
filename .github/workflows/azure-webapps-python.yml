@@ -1,7 +1,7 @@
 name: Build and deploy Python app to Azure Web App
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name
+  AZURE_WEBAPP_NAME: ProjSMD1
   PYTHON_VERSION: '3.10'
 
 on:
